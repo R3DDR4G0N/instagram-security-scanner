@@ -44,5 +44,5 @@ It checks:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/instagram-security-scanner.git
+git clone https://github.com/R3DDR4G0N/instagram-security-scanner.git
 cd instagram-security-scanner
