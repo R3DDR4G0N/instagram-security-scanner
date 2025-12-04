@@ -46,4 +46,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/R3DDR4G0N/instagram-security-scanner.git
 cd instagram-security-scanner
-python3 instagram-security-scanner.py
+python3 insta_full_security_scan.py
